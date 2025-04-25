@@ -1,1 +1,26 @@
+# === Python ===
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# === Virtual Environments ===
+fsm_env/
+venv/
+.env/
+.venv/
+
+# === VSCode ===
+.vscode/
+
+# === Jupyter Notebooks Checkpoints ===
+.ipynb_checkpoints/
+
+# === System Files ===
+.DS_Store
+Thumbs.db
